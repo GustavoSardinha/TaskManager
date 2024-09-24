@@ -1,21 +1,30 @@
-<<<<<<< HEAD
-# TaskManager
-A Simple Task Manager with Flutter
-=======
-# projeto_flutter
+# Task Manager app
+Aplicativo que permite ao usuário criar e deletar tarefas em uma lista, facilitando a organização do dia a dia. Com uma interface intuitiva, o usuário pode gerenciar suas tarefas de forma prática e eficiente, garantindo que nenhuma atividade importante seja esquecida.
+## Features
+- **Interface intuitiva** que permite ao usuário visualizar suas tarefas pendentes de forma clara.
+- **Campo para adicionar novas tarefas** com facilidade.
+- **Arraste para o lado** para deletar suas tarefas de maneira prática e intuitiva.
+- **Exibição da quantidade de tarefas pendentes**, mantendo o usuário informado.
 
-A new Flutter project.
+## Stacks
+Este projeto foi desenvolvido com o framework Flutter. O aplicativo utiliza o pacote **shared_preferences** para persistir os dados, garantindo que as informações permaneçam armazenadas no dispositivo do usuário mesmo após o fechamento do aplicativo.
+ 
+- **Flutter** (Dart)
+  
+### Pacotes:
+- **Pacote shared_preferences** para persistir os dados
+- **Pacote flutter_slidable** para criar interfaces deslizaveis 
+- Para consultar as versões, abra o pubspec.yaml
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo
+<div class ="inline-block">
+  <img src="" alt="Home Page Gif" width="300"/>
+  <img src="" alt="Home Page Gif" width="300"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 56a310f (flutter task manager)
+Clique no link abaixo e instale o app no seu dispostivo ou emulador **Android:**
+<br>
+[Download](https://drive.google.com/file/d/1bk3f5-e-WWn--8KIOnblakrYkyFk8ptF/view?usp=sharing)

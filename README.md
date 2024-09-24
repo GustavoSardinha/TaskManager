@@ -19,8 +19,8 @@ Este projeto foi desenvolvido com o framework Flutter. O aplicativo utiliza o pa
 
 ## Demo
 <div class ="inline-block">
-  <img src="" alt="Home Page Gif" width="300"/>
-  <img src="" alt="Home Page Gif" width="300"/>
+  <img src="https://github.com/GustavoSardinha/DEMO-GIFs/blob/main/TaskManager1.gif" alt="Home Page Gif" width="300"/>
+  <img src="https://github.com/GustavoSardinha/DEMO-GIFs/blob/main/TaskManager2.gif" alt="Home Page Gif" width="294"/>
 </div>
 
 ## Instalação

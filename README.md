@@ -24,7 +24,9 @@ Este projeto foi desenvolvido com o framework Flutter. O aplicativo utiliza o pa
 </div>
 
 ## Instalação
+Clone este repositório e abra no Android Studio
 
+## Instalação do executável
 Clique no link abaixo e instale o app no seu dispostivo ou emulador **Android:**
 <br>
 [Download](https://drive.google.com/file/d/1bk3f5-e-WWn--8KIOnblakrYkyFk8ptF/view?usp=sharing)
